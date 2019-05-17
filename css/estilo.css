@@ -1,0 +1,55 @@
+@font-face{
+	font-family: "Mi fuente";
+	src:url('../Fonts/FjallaOne-Regular.ttf');
+}
+
+
+
+#principal{
+		width: 900px;
+		height: 600px;
+		border: 1px  solid #000;		
+		margin: auto; 
+		font-size: 1.3rem;
+		background:url(../img/fondo.jpg);;
+		font-family: "Mi fuente";
+		color: #FDFFFF  ;
+		line-height: 1.3em;
+
+	}
+
+	#principal h2{
+	margin-left: 75px;
+	margin-bottom: 75px;
+
+	}
+	header{
+	height: 150px;
+	width: 900px;
+}
+
+header h2{
+	text-align:center auto;
+}
+
+ 	body{
+		background: url(../img/espacio.jpg);
+	}
+ label{
+ 	margin-left: 75px;
+ 	margin-top: 75px;
+ }
+
+#contenedor{
+	width: 100%;
+	margin: auto;
+}
+
+
+.col2{
+	width: 50%;
+	float: left;
+}
+
+
+
